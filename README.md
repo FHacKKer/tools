@@ -14,12 +14,12 @@ git clone https://github.com/AnonHackerr/toolss.git
 
 
 
-cd toolss
+cd tools
 
 
-chmod +x Tools.py
+chmod +x tools.py
 
 
 
-python Tools.py
+python tools.py
 ```
